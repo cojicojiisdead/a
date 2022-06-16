@@ -3,7 +3,7 @@
   "networkMode": "awsvpc",
   "containerDefinitions": [
     {
-      "name": "toyoda-test-github-action-container",
+      "name": "toyoda",
       "image": "httpd",
       "portMappings": [
         {
