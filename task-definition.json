@@ -1,5 +1,5 @@
 {
-  "family": "httpd-task",
+  "family": "toyoda-test-github-action-2-family",
   "networkMode": "awsvpc",
   "containerDefinitions": [
     {
